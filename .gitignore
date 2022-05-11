@@ -2,3 +2,5 @@
 /.idea/
 /src/main/webapp/WEB-INF/web.xml
 /src/main/webapp/index.jsp
+
+/src/main/resources/database.properties

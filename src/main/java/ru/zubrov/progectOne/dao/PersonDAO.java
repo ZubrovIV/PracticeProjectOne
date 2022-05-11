@@ -6,8 +6,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 import ru.zubrov.progectOne.models.Person;
 
-import java.sql.*;
-import java.util.ArrayList;
+
 import java.util.List;
 @Component
 public class PersonDAO {
